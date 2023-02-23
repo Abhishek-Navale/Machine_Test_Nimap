@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine_Test_Nimap", "Machine_Test_Nimap\Machine_Test_Nimap.csproj", "{B6CE72EA-C9C4-4339-B15D-4F5EAE492C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CE72EA-C9C4-4339-B15D-4F5EAE492C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CE72EA-C9C4-4339-B15D-4F5EAE492C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CE72EA-C9C4-4339-B15D-4F5EAE492C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CE72EA-C9C4-4339-B15D-4F5EAE492C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05090966-8B35-417D-9FB2-83C1F7D7CFE8}
+	EndGlobalSection
+EndGlobal
